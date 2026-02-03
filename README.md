@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 <!--
-**BhagyarajElla/BhagyarajElla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Immunology Data Analysis Project
+**# Immunology Data Analysis Project
 
 ## Description
 This project focuses on applying data science techniques to analyze immunological datasets. 
@@ -23,4 +21,6 @@ The dataset used in this project comes from:
 - Programming: Python (pandas, numpy, matplotlib, seaborn, scikit-learn)  
 - Statistics: Descriptive statistics, hypothesis testing  
 - Visualization: Boxplots, heatmaps, PCA  
-- Domain: Immunology, flow cytometry, genomics 
+- Domain: Immunology, flow cytometry, genomics ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
